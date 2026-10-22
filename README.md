@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! 🚀
 
 I am **Sandeep Kushwaha**, a B.Tech Computer Science and Engineering student passionate about software development, problem-solving, and building useful web applications.
 
-🌐 **Live Website:** [sandeepkushwaha-portfolio.netlify.app](https://sandeepkushwaha-portfolio.netlify.app)
+🌐 **Live Website:** [sandeepkushwaha-portfolio.netlify.app](https://sandeep-kushwaha-portfolio.netlify.app)
 
 ## ✨ About Me
 
